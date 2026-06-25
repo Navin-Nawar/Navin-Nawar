@@ -81,6 +81,6 @@
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/navin.nawar.79" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=fb" alt="Facebook" />
   </a>
 </p>
