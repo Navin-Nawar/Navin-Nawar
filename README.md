@@ -1,4 +1,6 @@
-https://ibb.co.com/CK5JRj9c
+<p align="center">
+  <img src="https://i.ibb.co.com/Sw4XPjNY/Github-Readme-Picture.jpg" alt="Profile Picture" width="500">
+</p>
 
 <!--
 **Navin-Nawar/Navin-Nawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
