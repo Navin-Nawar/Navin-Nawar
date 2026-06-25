@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <i>Currently sharpening: Flutter & Java 🛠️</i>
+  <i>Leveling up in: Web Development and Flutter ✨</i>
 </p>
 
 <p align="center">
@@ -75,12 +75,12 @@
 ### Connect with me >>
 <p align="left">
   <a href="https://linkedin.com/in/navin-nawar-19b613337" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Navin-Nawar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://www.facebook.com/navin.nawar.79" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
 </p>
