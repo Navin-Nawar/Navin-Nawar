@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.ibb.co.com/Sw4XPjNY/Github-Readme-Picture.jpg" alt="Profile Picture" width="550">
-</p>
+</p> -->
 
 <h1 align="center">I'm Navin, Undergrad in Information & Communication Engineering</h1>
 
